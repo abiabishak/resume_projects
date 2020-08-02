@@ -1,0 +1,7 @@
+# mechanize : pip install mechanize
+# beautifulsoup4 : pip install beautifulsoup4
+
+* mechanize will be used to parse data to the search bar and press submit button, beautifulsoup4 will be used to scrape data from the website
+
+Website used : find and trace
+url : https://www.findandtrace.com/trace-mobile-number-location
